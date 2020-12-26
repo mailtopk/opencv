@@ -14,7 +14,7 @@ Install Anaconda from [link](https://anaconda.org) and download
 * Create Environment
 
 ```console
-$ conda create -f environment.yml
+$ conda env create -f environment.yml
 ``` 
 
 * Activate command
